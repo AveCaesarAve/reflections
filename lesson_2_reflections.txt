@@ -21,3 +21,8 @@ If I would like to introduce some new functionalities to the code, add translati
 How do the diagrams help you visualize the branch structure?
 
 They allow me to see in which point of the project structure tree am I located and see what commits are in my way to initial commit.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Because the new commit keeps the history of all earlier commits for both merged branches.
