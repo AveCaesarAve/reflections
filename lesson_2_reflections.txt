@@ -16,3 +16,8 @@ Use command "git diff" to check how many errors were fixed or functions were add
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If I would like to introduce some new functionalities to the code, add translations and later to introduce them to the main branch code.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They allow me to see in which point of the project structure tree am I located and see what commits are in my way to initial commit.
