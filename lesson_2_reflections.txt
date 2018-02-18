@@ -6,3 +6,8 @@ A hidden folder ".git" is created with configuration and tracking data for my pr
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It will not allow to change the files anymore before commit, but will allow to have an overview on the files to be included in the commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use command "git diff" to check how many errors were fixed or functions were added in current commit.
