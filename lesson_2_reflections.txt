@@ -26,3 +26,8 @@ They allow me to see in which point of the project structure tree am I located a
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Because the new commit keeps the history of all earlier commits for both merged branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic allows faster merging when possible, but given less control over this process.
